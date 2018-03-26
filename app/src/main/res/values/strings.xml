@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="reset">RESET</string>
+    <string name="submit">SUBMIT</string>
+    <string name="_1_what_is_your_name">1.What is your name?</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="_2_what_does_apk_stands_for_in_android">2.What does APK stands for in android?</string>
+    <string name="android_programming_kit">Android Programming kit</string>
+    <string name="android_packaging_kit">Android packaging kit</string>
+    <string name="_3_who_was_not_among_the_founders_of_android">3.who was not among the founders of Android?</string>
+    <string name="andy_rubin">Andy Rubin</string>
+    <string name="larry_page">Larry Page</string>
+    <string name="rich_miner">Rich Miner</string>
+    <string name="nick_sears">Nick Sears</string>
+    <string name="_4_the_first_smartphone_to_run_on_android_platform_was">4.The first smartphone to run on Android platform was?</string>
+    <string name="nexus">Nexus</string>
+    <string name="htc_dream">HTC Dream</string>
+    <string name="_5_we_can_pass_data_between_activities_in_android_using">5.We can pass Data between Activities in Android using?</string>
+    <string name="intent">Intent</string>
+    <string name="content_provider">Content Provider</string>
+    <string name="none_of_the_above">None of the above</string>
+    <string name="_6_who_designed_android_logo">6.Who designed Android Logo?</string>
+    <string name="andy_rubin1">Andy Rubin</string>
+    <string name="irina_blok">Irina Blok</string>
+</resources>
